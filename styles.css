@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main {
+    background-color: blue;
+}
+fieldset {
+    
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
